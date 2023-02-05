@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Digital-7 Mono";
+  src: url("./assets/font/digital-7-mono.ttf") format("truetype");
+}
+
+.font-digit {
+  font-family: "Digital-7 Mono";
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body {
+  user-select: none;
+  background-color: #000;
+}
